@@ -6,9 +6,11 @@
 </h3>
 
 ## 👨‍💻 About Me
+
 📚 I'm currently learning **MERN STACK Development**  
 🎯 Goals: To become a **skilled Full Stack & AI Engineer**  
 🌏 Languages: English, Tamil & 日本語 (Japanese 🇯🇵 – JLPT N4 & N5)  
+
 ---
 
 ## 🌐 Socials
