@@ -5,6 +5,8 @@
   </a>
 </h3>
 
+---
+
 ## 👨‍💻 About Me
 
 📚 I'm currently learning **MERN STACK Development**  
@@ -74,6 +76,15 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PRAVIN2506&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🧩 LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/u/Pravin2506/">
+    <img src="https://leetcard.jacoblin.cool/Pravin2506?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
