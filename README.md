@@ -5,10 +5,10 @@
   <!-- Animated Gradient Header - Cream & Blue -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E3A8A,100:F5F0E1&height=200&section=header&text=Pravin%20B&fontSize=70&fontColor=F5F0E1&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=20&descAlignY=65&descColor=F5F0E1" width="100%"/>
   
-  <!-- Typing Animation - Deep Blue -->
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=500&color=1E3A8A&center=true&vCenter=true&width=700&lines=✦+Full+Stack+Developer+✦;✦+AI%2FML+Enthusiast+✦;✦+Problem+Solver+✦;✦+Open+Source+Contributor+✦" alt="Typing SVG" />
-  </p>
+<!-- Typing Animation - Deep Blue -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=3000&pause=500&color=1E3A8A&center=true&vCenter=true&width=700&lines=✦+Full+Stack+Developer+✦;✦+AI%2FML+Enthusiast+✦;✦+Problem+Solver+✦;✦+Open+Source+Contributor+✦" alt="Typing SVG" />
+</p>
   
   <!-- Profile Views Counter - Cream/Blue -->
   <img src="https://komarev.com/ghpvc/?username=PRAVIN2506&label=✦+PROFILE+VIEWS+✦&color=1E3A8A&style=for-the-badge&base=1000&labelColor=F5F0E1" />
@@ -34,8 +34,6 @@
   - 📄 **Published Research:** *"AI-Powered Child Protection with Instant Content Redirection"* @ IEEE ICCDS 2025
   
   - 🤖 **Currently Exploring:** Generative AI & LLMs
-  
-  - ⚡ **Fun Fact:** I love turning coffee into code and problems into solutions ☕✨
   
   </div>
   
@@ -103,7 +101,7 @@
 <div align="center">
   
   <a href="https://leetcode.com/u/Pravin2506/">
-    <img src="https://leetcard.jacoblin.cool/Pravin2506?theme=light&font=Fira%20Code&ext=heatmap&border=0&radius=12&animation=true&bg=F5F0E1&stroke=1E3A8A&title_color=1E3A8A" width="75%"/>
+    <img src="https://leetcard.jacoblin.cool/Pravin2506?theme=light&font=Fira%20Code&ext=heatmap&border=0&radius=12&animation=true&bg=F5F0E1&stroke=1E3A8A&title_color=1E3A8A" width="48%"/>
   </a>
   
 </div>
@@ -128,8 +126,6 @@
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
   
   <a href="https://linkedin.com/in/pravin250604">
@@ -147,15 +143,5 @@
   <a href="https://leetcode.com/u/Pravin2506/">
     <img src="https://img.shields.io/badge/LeetCode-1E3A8A?style=for-the-badge&logo=leetcode&logoColor=F5F0E1"/>
   </a>
-  
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:F5F0E1&height=120&section=footer"/>
-  
-  ### 💙 *"Code with passion. Build with purpose."* 💙
   
 </div>
