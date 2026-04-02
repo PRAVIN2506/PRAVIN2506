@@ -17,10 +17,7 @@
   
 </div>
 
-<!-- Full Width Fixed Separator - Deep Blue -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&color=1E3A8A&center=true&vCenter=true&width=1200&height=35&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Separator" />
-</p>
+---
 
 ## 💫 About Me
 
@@ -44,14 +41,7 @@
   
 </div>
 
-<br/>
-
-<!-- Full Width Fixed Separator - Deep Blue -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&color=1E3A8A&center=true&vCenter=true&width=1200&height=35&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Separator" />
-</p>
-
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -96,12 +86,7 @@
   
 </div>
 
-<br/>
-
-<!-- Full Width Fixed Separator - Deep Blue -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&color=1E3A8A&center=true&vCenter=true&width=1200&height=35&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Separator" />
-</p>
+---
 
 ## 📊 GitHub Analytics
 
@@ -111,12 +96,7 @@
   
 </div>
 
-<br/>
-
-<!-- Full Width Fixed Separator - Deep Blue -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&color=1E3A8A&center=true&vCenter=true&width=1200&height=35&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Separator" />
-</p>
+---
 
 ## 🎯 LeetCode Profile
 
@@ -128,13 +108,8 @@
   
 </div>
 
-<br/>
+---
 
-<!-- Full Width Fixed Separator - Deep Blue -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&color=1E3A8A&center=true&vCenter=true&width=1200&height=35&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Separator" />
-</p>
-  
 ## 📝 Latest Publication
 
 <div align="center">
@@ -151,12 +126,7 @@
   
 </div>
 
-<br/>
-
-<!-- Full Width Fixed Separator - Deep Blue -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&color=1E3A8A&center=true&vCenter=true&width=1200&height=35&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Separator" />
-</p>
+---
 
 ## 🤝 Let's Connect
 
@@ -180,12 +150,7 @@
   
 </div>
 
-<br/>
-
-<!-- Full Width Fixed Separator - Deep Blue -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&color=1E3A8A&center=true&vCenter=true&width=1200&height=35&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Separator" />
-</p>
+---
 
 <div align="center">
   
