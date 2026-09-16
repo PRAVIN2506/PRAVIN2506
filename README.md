@@ -1,12 +1,10 @@
-<!--- ⚡ Midnight & Neon Theme --->
+<!--- Midnight & Neon Theme --->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=220&section=header&text=Pravin%20B&fontSize=60&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Production%20Web%20%26%20AI%20Systems&descSize=16&descAlignY=58&descColor=94A3B8" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=40&duration=2600&pause=800&color=F8FAFC&center=true&vCenter=true&width=600&height=60&lines=Pravin+B" alt="name" />
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+production+POS+%26+admin+systems;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+MongoDB;Published+AI+Researcher+%40+IEEE+ICCDS+2025;Exploring+Generative+AI+%26+LLMs" alt="Typing SVG" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer;Building+Production+Web+%26+AI+Systems;Published+AI+Researcher+%40+IEEE+ICCDS+2025" alt="role" />
 
   <img src="https://komarev.com/ghpvc/?username=PRAVIN2506&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge&labelColor=0F172A" />
 
@@ -14,19 +12,19 @@
 
 <br/>
 
-## 🧭 About Me
+## About Me
 
-- 💼 **Full Stack Developer** @ **JB Arrowstar Solutions Pvt Ltd**, Bangalore — `Aug 2025 – Present`
-- 🎓 B.Tech in **Artificial Intelligence & Data Science**, Mahendra Engineering College
-- 📄 Published Researcher — *"SAFESCREEN: AI-Powered Child Protection with Instant Content Redirection"*, IEEE ICCDS 2025
-- 🛠️ Ship end-to-end production systems: POS applications, admin panels, and corporate web platforms
-- 🌐 Languages: English • Tamil • 日本語 (JLPT N4/N5)
-- 🔭 Currently exploring Generative AI, LLMs, and AI-assisted engineering workflows
-- 📫 Reach me at **pravin250604@gmail.com**
+- **Full Stack Developer** @ **JB Arrowstar Solutions Pvt Ltd**, Bangalore — `Aug 2025 – Present`
+- B.Tech in **Artificial Intelligence & Data Science**, Mahendra Engineering College
+- Published Researcher — *"SAFESCREEN: AI-Powered Child Protection with Instant Content Redirection"*, IEEE ICCDS 2025
+- Ship end-to-end production systems: POS applications, admin panels, and corporate web platforms
+- Languages: English • Tamil • 日本語 (JLPT N4/N5)
+- Currently exploring Generative AI, LLMs, and AI-assisted engineering workflows
+- Reach me at **pravin250604@gmail.com**
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <table align="center" border="0">
 <tr>
@@ -75,20 +73,20 @@
 
 <br/>
 
-## 🚀 Featured Production Work
+## Featured Production Work
 
 <table align="center" border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 💎 Jewellery Shop POS System
+### Jewellery Shop POS System
 Full-stack billing & inventory POS for a live jewellery retailer.
 `React` `TypeScript` `Node.js` `Express` `MongoDB` `Redux Toolkit`
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ Product Admin Panel
+### Product Admin Panel
 Cross-platform desktop admin panel on a microservices backend.
 `Electron` `React` `TypeScript` `Docker` `AWS`
 
@@ -97,14 +95,14 @@ Cross-platform desktop admin panel on a microservices backend.
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 JB Arrowstar Corporate Website
+### JB Arrowstar Corporate Website
 Responsive company site with automated CI/CD content publishing.
 `React` `TypeScript` `Vite` `Tailwind CSS` `GitHub Actions`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ AI-Powered Safe Screen
+### AI-Powered Safe Screen
 Real-time AI content moderation with instant safe-page redirection.
 `Python` `BERT` `OpenCV` — Published @ IEEE ICCDS 2025
 
@@ -114,7 +112,7 @@ Real-time AI content moderation with instant safe-page redirection.
 
 <br/>
 
-## 🌍 Live on the Web
+## Live on the Web
 
 <table align="center" border="0" width="100%">
 <tr>
@@ -144,11 +142,11 @@ Live storefront for a jewellery retailer, backed by the production POS system bu
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PRAVIN2506&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAVIN2506&theme=tokyonight&hide_border=true&background=0F172A&stroke=38BDF8&ring=0EA5E9&fire=0EA5E9&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=PRAVIN2506&theme=tokyonight&hide_border=true&background=0F172A&stroke=38BDF8&ring=0EA5E9&fire=0EA5E9&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="49%"/>
 </div>
 
 <div align="center">
@@ -157,7 +155,7 @@ Live storefront for a jewellery retailer, backed by the production POS system bu
 
 <br/>
 
-## 🎯 LeetCode
+## LeetCode
 
 <div align="center">
   <a href="https://leetcode.com/u/Pravin2506/">
@@ -167,7 +165,7 @@ Live storefront for a jewellery retailer, backed by the production POS system bu
 
 <br/>
 
-## 📝 Publication
+## Publication
 
 <div align="center">
 
@@ -183,7 +181,7 @@ Live storefront for a jewellery retailer, backed by the production POS system bu
 
 <br/>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/pravin250604">
